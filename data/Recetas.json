@@ -1,0 +1,200 @@
+ {
+    "recetas":[
+        {
+            "nombre": "Spaghetti Bolognese",
+            "personas":4,
+            "id":1,
+            "imagen":"https://cdn.cookmonkeys.es/recetas/medium/espaguetis-bolonesa-2-10592.jpeg",
+            "ingredientes": [
+              {
+                "nombre": "Spaghetti",
+                "cantidad": "200 gr."
+              },
+              {
+                "nombre": "Carne molida",
+                "cantidad": "300 gr."
+              },
+              {
+                "nombre": "Cebolla",
+                "cantidad": "1 unidad"
+              },
+              {
+                "nombre": "Ajo",
+                "cantidad": "2 dientes"
+              },
+              {
+                "nombre": "Salsa de tomate",
+                "cantidad": "400 gr."
+              },
+              {
+                "nombre": "Aceite de oliva",
+                "cantidad": "2 cucharadas"
+              },
+              {
+                "nombre": "Sal",
+                "cantidad": "al gusto"
+              },
+              {
+                "nombre": "Pimienta",
+                "cantidad": "al gusto"
+              }
+            ]
+        },
+        {
+            "nombre": "Pizza Margherita",
+            "personas":2,
+            "id":2,
+            "imagen":"https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/D2KL4RRCRJA7RJC5TNULFZEKR4.jpg",
+            "ingredientes": [
+              {
+                "nombre": "Masa para pizza",
+                "cantidad": "1 unidad"
+              },
+              {
+                "nombre": "Tomate",
+                "cantidad": "2 unidades"
+              },
+              {
+                "nombre": "Queso mozzarella",
+                "cantidad": "200 gramos"
+              },
+              {
+                "nombre": "Albahaca",
+                "cantidad": "al gusto"
+              },
+              {
+                "nombre": "Aceite de oliva",
+                "cantidad": "2 cucharadas"
+              },
+              {
+                "nombre": "Sal",
+                "cantidad": "al gusto"
+              },
+              {
+                "nombre": "Pimienta",
+                "cantidad": "al gusto"
+              }
+            ]
+        },
+        {
+            "nombre": "Sopa de Tomate",
+            "personas":6,
+            "id":3,
+            "imagen":"https://t1.uc.ltmcdn.com/es/posts/3/0/9/como_hacer_sopa_de_tomate_casera_25903_orig.jpg",
+            "ingredientes": [
+              {
+                "nombre": "Tomate",
+                "cantidad": "1 kilo"
+              },
+            {
+                "nombre": "Cebolla",
+                "cantidad": "1 unidad"
+             },
+            {
+                "nombre": "Ajo",
+                "cantidad": "2 dientes"
+            },
+            {
+                "nombre": "Caldo de pollo",
+                "cantidad": "500 mililitros"
+            },
+            {
+                "nombre": "Aceite de oliva",
+                "cantidad": "2 cucharadas"
+            },
+            {
+                "nombre": "Sal",
+                "cantidad": "al gusto"
+            },
+            {
+                "nombre": "Pimienta",
+                "cantidad": "al gusto"
+            }
+            ]
+        },
+        {
+            "nombre": "Ensalada Caprese",
+            "personas":2,
+            "id":4,
+            "imagen":"https://deliciaskitchen.com/wp-content/uploads/2022/07/ensalada-caprese-receta-original-italiana.jpg",
+            "ingredientes": [
+                {
+                    "nombre": "Tomate",
+                    "cantidad": "2 unidades"
+                },
+                {
+                    "nombre": "Queso mozzarella",
+                    "cantidad": "200 gramos"
+                },
+                {
+                    "nombre": "Albahaca",
+                    "cantidad": "al gusto"
+                },
+                {
+                    "nombre": "Aceite de oliva",
+                    "cantidad": "2 cucharadas"
+                },
+                {
+                    "nombre": "Vinagre balsámico",
+                    "cantidad": "1 cucharada"
+                },
+                {
+                    "nombre": "Sal",
+                    "cantidad": "al gusto"
+                },
+                {
+                    "nombre": "Pimienta",
+                    "cantidad": "al gusto"
+                }
+            ]
+        },
+        {
+            "nombre": "Hamburguesa con queso",
+            "personas":1,
+            "id":5,
+            "imagen":"https://cocina-casera.com/wp-content/uploads/2016/11/hamburguesa-queso-receta.jpg",
+            "ingredientes": [
+                {
+                    "nombre": "Carne de res molida",
+                    "cantidad": "300 gramos"
+                },
+                {
+                    "nombre": "Pan de hamburguesa",
+                    "cantidad": "2 unidades"
+                },
+                {
+                    "nombre": "Queso cheddar",
+                    "cantidad": "2 lonchas"
+                },
+                {
+                    "nombre": "Lechuga",
+                    "cantidad": "al gusto"
+                },
+                {
+                    "nombre": "Tomate",
+                    "cantidad": "2 rodajas"
+                },
+                {
+                    "nombre": "Cebolla",
+                    "cantidad": "2 rodajas"
+                },
+                {
+                    "nombre": "Salsa de tomate",
+                    "cantidad": "2 cucharadas"
+                },
+                {
+                    "nombre": "Mostaza",
+                    "cantidad": "1 cucharada"
+                },
+                {
+                    "nombre": "Sal",
+                    "cantidad": "al gusto"
+                },
+                {
+                    "nombre": "Pimienta",
+                    "cantidad": "al gusto"
+                }
+             ]
+        }
+    ]
+}
